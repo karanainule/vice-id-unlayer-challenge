@@ -94,15 +94,6 @@ npm run build
 npm run preview   # optional: preview the production build locally
 ```
 
-## Deployment
-
-The project is ready for [Vercel](https://vercel.com/):
-
-1. Push this repository to GitHub.
-2. Import it in Vercel as a new project (framework preset: **Vite**).
-3. No environment variables are required.
-4. Deploy. `vercel.json` includes an SPA rewrite so client-side routes like
-   `/create` or `/nightwire` work correctly on refresh and direct visits.
 
 ## Why React Image Editor
 
@@ -122,10 +113,6 @@ The editor is the hinge the entire app turns on:
   frames) is left enabled, and cinematic microcopy next to the editor keeps
   the framing clear: *"the city only sees what you show it."*
 
-## Screenshots
-
-_Add screenshots or a short screen recording of the Profile → Edit → File →
-Nightwire flow here before submitting._
 
 ## License
 
