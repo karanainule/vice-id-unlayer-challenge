@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="bg1" cx="30%" cy="10%" r="80%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#07060A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bg2" cx="85%" cy="90%" r="70%">
+      <stop offset="0%" stop-color="#FF3EA5" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#07060A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF3EA5"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#07060A"/>
+  <rect width="1200" height="630" fill="url(#bg1)"/>
+  <rect width="1200" height="630" fill="url(#bg2)"/>
+  <text x="90" y="320" font-family="Space Grotesk, sans-serif" font-size="120" font-weight="700" fill="url(#txt)">VICE ID</text>
+  <text x="92" y="380" font-family="Inter, sans-serif" font-size="30" fill="#A8A4B7">Everyone arrives with a story. Build yours.</text>
+  <text x="92" y="560" font-family="Inter, sans-serif" font-size="22" letter-spacing="2" fill="#F8F7FF">LEONORA // IDENTITY TERMINAL</text>
+</svg>
